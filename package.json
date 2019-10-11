@@ -1,0 +1,31 @@
+{
+  "name": "challenge-1",
+  "version": "1.0.0",
+  "description": "First Node app",
+  "main": "challenge1.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chromedriver": "^76.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdeversole/Node-Workspace.git"
+  },
+  "keywords": [
+    "STG",
+    "Node",
+    "1"
+  ],
+  "author": "TDEversole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdeversole/Node-Workspace/issues"
+  },
+  "homepage": "https://github.com/tdeversole/Node-Workspace#readme"
+}
